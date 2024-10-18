@@ -1,0 +1,20 @@
+﻿@model OnlineGroceryApp.Models.Product
+@{
+    Layout = "~/Views/Shared/adminlayout.cshtml";
+}
+@{
+    ViewBag.Title = "Product Details";
+}
+
+<h2>@Model.ProductName</h2>
+
+<div>
+    <p><strong>Price:</strong> @Model.ProductPrice</p>
+    <p><strong>Stocks:</strong> @Model.ProductStocks</p>
+    <p><strong>Image:</strong> <img src="/@Model.ProductImage" alt="@Model.ProductName" width="200" /></p>
+    <p><strong>Category:</strong> @Model.CategoryId</p> <!-- Replace with category name if needed -->
+    <p><strong>Brand:</strong> @Model.BrandId</p>    <!-- Replace with brand name if needed -->
+</div>
+
+<a href="/Product/Index" class="btn btn-secondary">Back to List</a>
+<a href="/Product/EditProduct/@Model.ProductId" class="btn btn-warning">Edit</a>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<OnlineGroceryApp.Models.Review>
+@{
+    Layout = "~/Views/Shared/adminlayout.cshtml";
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ReviewId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReviewText)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReviewId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReviewText)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ReviewId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ReviewId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ReviewId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - OnlineGroceryApp</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/OnlineGroceryApp.styles.css" asp-append-version="true" />
+    <style>
+         body {
+            background-image: url('/images/onlngroceryback.jpg');
+            background-size: cover;
+            background-position: center;
+            color: black;
+            
+        }
+        img {
+            width: 100px;
+            height: 85px;
+            margin-left: 10px;
+            border-radius: 100px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <img src="~/images/ToZepy_Logo.jpeg" alt="Company Logo" />
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Reports</a>
+                        </li>
+
+                        <div class="dropdown-menu" aria-labelledby="categoriesDropdown">
+                            @if (ViewBag.Categories != null)
+                            {
+                                @foreach (var category in ViewBag.Categories)
+                                {
+                                    <a class="dropdown-item" asp-controller="User" asp-action="CategoryProducts" asp-route-id="@category.CategoryId">@category.CategoryName</a>
+                                }
+                            }
+                            else
+                            {
+                                <span class="dropdown-item">No categories available</span>
+                            }
+                        </div>
+                    </ul>
+
+
+                  <form method="get" asp-controller="User" asp-action="Search">
+    
+</form>
+                </div>
+            </div>
+        </nav>
+
+    </header>
+
+    
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            © 2024 - OnlineGroceryApp - <a asp-area="" asp-controller="User" asp-action="Contactus">Contact us</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

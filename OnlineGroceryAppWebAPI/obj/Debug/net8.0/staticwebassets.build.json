@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wLkbfe13ePwMSY2vA5zETzUSFrs1rX4DsXTPS+W2JsA=",
+  "Source": "OnlineGroceryAppWebAPI",
+  "BasePath": "_content/OnlineGroceryAppWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

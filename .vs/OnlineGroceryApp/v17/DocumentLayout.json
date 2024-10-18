@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\controllers\\userdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\controllers\\userdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\controllers\\registerationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\controllers\\registerationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\product\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\products\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\products\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\registeration\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\registeration\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\userdetails\\userdet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\userdetails\\userdet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\userdetails\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\userdetails\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\userdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\userdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\userdetails\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\userdetails\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\userdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\userdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\reviews\\reviewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\reviews\\reviewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\reviews\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\reviews\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\registeration\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\registeration\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\registeration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\registeration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\products\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\products\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\product\\viewproductdescription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\product\\viewproductdescription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\product\\searchproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\product\\searchproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\product\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\product\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\admin\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\admin\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\admin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\admin\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|c:\\users\\saswat.nayak\\source\\repos\\onlinegroceryapp\\onlinegroceryapp\\views\\user\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01A3F9F0-1BA9-4BA0-BF11-6120E09E71EB}|OnlineGroceryApp\\OnlineGroceryApp.csproj|solutionrelative:onlinegroceryapp\\views\\user\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\UserDetailsController.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Controllers\\UserDetailsController.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\UserDetailsController.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Controllers\\UserDetailsController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:24:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAIwHcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:23:54.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Models\\Product.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:03:47.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:29:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Products\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Products\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Products\\HomePage.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Products\\HomePage.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:40:47.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAADwv2cAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:23:40.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvzQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:44:15.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:10:53.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Product\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\EditProduct.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Product\\EditProduct.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:40:15.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterationController.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\RegisterationController.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Controllers\\RegisterationController.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\RegisterationController.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Controllers\\RegisterationController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:44:24.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OnlineGroceryApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAwwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:44:54.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adminlayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Shared\\adminlayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Shared\\adminlayout.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Shared\\adminlayout.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Shared\\adminlayout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:32:14.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\InsertProduct.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Product\\InsertProduct.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\InsertProduct.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Product\\InsertProduct.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:24:16.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:38:00.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:39:38.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\DeleteUser.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\UserDetails\\DeleteUser.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\DeleteUser.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\UserDetails\\DeleteUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:37.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDET.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\UserDET.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\UserDetails\\UserDET.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\UserDET.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\UserDetails\\UserDET.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:46.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Registeration\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Registeration\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Registeration\\ResetPassword.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Registeration\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:47:10.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\User\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\User\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\User\\ResetPassword.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\User\\ResetPassword.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvzkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:47:41.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\UserDetails\\Details.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\Details.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\UserDetails\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:40.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\UserDetails\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\Create.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\UserDetails\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:33.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReviewDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\ReviewDetails.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Reviews\\ReviewDetails.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\ReviewDetails.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Reviews\\ReviewDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:21.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\Review.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Reviews\\Review.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\Review.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Reviews\\Review.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:17.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Reviews\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\Edit.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Reviews\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:13.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Reviews\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\Delete.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Reviews\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:10.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Reviews\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Reviews\\Create.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Reviews\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:06.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\UserDetails\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\UserDetails\\EditUser.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\UserDetails\\EditUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:43.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Registeration\\Logout.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Registeration\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Registeration\\Logout.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Registeration\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:41:00.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Registeration\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Registeration\\Register.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Registeration\\Register.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Registeration\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:40:56.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ViewProductDescription.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\ViewProductDescription.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Product\\ViewProductDescription.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\ViewProductDescription.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Product\\ViewProductDescription.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:40:40.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SearchProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\SearchProducts.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Product\\SearchProducts.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\SearchProducts.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Product\\SearchProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:40:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Product\\DeleteProduct.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Product\\DeleteProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:40:11.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:40:02.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:40:00.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Admin\\Reports.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Admin\\Reports.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Admin\\Reports.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Admin\\Reports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:39:45.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Products\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Products\\DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Products\\DashBoard.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Products\\DashBoard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:39:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:26:32.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "userlayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Shared\\userlayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Shared\\userlayout.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Shared\\userlayout.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Shared\\userlayout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAzwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:35:21.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\User\\Home.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\User\\Home.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\User\\Home.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\User\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:34:32.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\DashBoard.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Product\\DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Product\\DashBoard.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Product\\DashBoard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:33:52.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:33:22.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Admin\\Home.cshtml",
+              "RelativeDocumentMoniker": "OnlineGroceryApp\\Views\\Admin\\Home.cshtml",
+              "ToolTip": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\Views\\Admin\\Home.cshtml",
+              "RelativeToolTip": "OnlineGroceryApp\\Views\\Admin\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T13:33:18.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

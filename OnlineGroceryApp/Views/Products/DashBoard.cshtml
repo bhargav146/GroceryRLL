@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+@{
+    Layout = "~/Views/Shared/adminlayout.cshtml";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+
+
+
+<div class="admin-dashboard">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Manage Products</h5>
+                    <p class="card-text">Add, update, or remove products from the store.</p>
+
+                    <a href="@Url.Action("Index", "Product")" class="btn btn-primary">Go to Products</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Manage Orders</h5>
+                    <p class="card-text">View and manage customer orders.</p>
+                    <a href="@Url.Action("DashBoard", "Product")" class="btn btn-primary">Go to Orders</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Manage Users</h5>
+                    <p class="card-text">Add or remove users.</p>
+                    <a href="@Url.Action("UserDET", "UserDetails")" class="btn btn-primary">Go to Users</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">View Reports</h5>
+                    <p class="card-text">View sales and performance reports.</p>
+                    <a href="@Url.Action("Reports", "Admin")" class="btn btn-primary">Go to Reports</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

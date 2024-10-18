@@ -1,0 +1,132 @@
+﻿@using OnlineGroceryApp
+@using OnlineGroceryApp.Controllers
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *,DNTCaptcha.Core
+
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@* 
+<form method="post">
+    <label>Enter AdminName:</label> <input type="text" name="t1" class="form-control" /><br />
+    <label>Enter password:</label> <input type="password" name="t2" class="form-control" /><br />
+
+    <div class="input-group mb-3">
+        <dnt-captcha asp-captcha-generator-max="999999"
+                     asp-captcha-generator-min="111111"
+                     asp-captcha-generator-language="English"
+                     asp-captcha-generator-display-mode="ShowDigits"
+                     asp-use-relative-urls="true"
+                     asp-placeholder="Enter Captcha"
+                     asp-validation-error-message="Please enter the security code."
+                     asp-font-name="Tahoma"
+                     asp-font-size="20"
+                     asp-fore-color="#333333"
+                     asp-back-color="#ccc"
+                     asp-text-box-class="text-box form-control"
+                     asp-text-box-template="<span class='input-group-prepend'>
+<span class='form-group-text'></span></span>{0}"
+    asp-validation-message-class="text-danger"
+    asp-refresh-button-class="fas fa-redo btn-sm" asp-use-noise="false" />
+    </div>
+
+    <input type="submit" value="Login" class="btn btn-primary" />
+</form>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/js/jquery.unobtrusive-ajax.js"></script>
+
+
+
+<div class="btn btn-info">
+    @Html.ActionLink("New User? Click Here", "Register", "Registeration")
+</div>
+
+<div class="btn btn-warning">
+    @Html.ActionLink("Forgot Password?", "ResetPassword")
+</div> *@
+
+
+@*
+<form method="post">
+
+    <label>Enter adminname:</label> <input type="text" name="t1" class="form-control" /><br />
+
+    <label>Enter password:</label> <input type="password" name="t2" class="form-control" /><br />
+
+
+
+    <input type="submit" value="Login" />
+
+    <a href="/Admin/ForgotPassword">Forgot Password?</a>
+
+
+    <div class="input-group mb-3">
+        <dnt-captcha asp-captcha-generator-max="999999"
+                     asp-captcha-generator-min="111111"
+                     asp-captcha-generator-language="English"
+                     asp-captcha-generator-display-mode="ShowDigits"
+                     asp-use-relative-urls="true"
+                     asp-placeholder="Enter Captcha"
+                     asp-validation-error-message="Please enter the security code."
+                     asp-font-name="Tahoma"
+                     asp-font-size="20"
+                     asp-fore-color="#333333"
+                     asp-back-color="#ccc"
+                     asp-text-box-class="text-box form-control"
+                     asp-text-box-template="<span class='input-group-prepend'>
+<span class='form-group-text'></span></span>{0}"
+    asp-validation-message-class="text-danger"
+    asp-refresh-button-class="fas fa-redo btn-sm" asp-use-noise="false" />
+    </div>
+
+</form>
+
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/js/jquery.unobtrusive-ajax.js"></script>
+
+
+<div class="btn btn-danger">
+    @ViewData["r"]
+</div>
+
+
+<div class="btn btn-info">
+    @Html.ActionLink("New Admin? Click Here", "Register", "Registeration")
+</div> *@
+
+<form method="post">
+    <label>Enter AdminEmail:</label> <input type="text" name="t1" class="form-control"  required /><br />
+    <label>Enter password:</label> <input type="password" name="t2" class="form-control" required /><br />
+    <input type="submit" value="Login" class="btn btn-primary" />
+</form>
+
+<div class="btn btn-info">
+    @Html.ActionLink("New User? Click Here", "Register", "Registeration")
+</div>
+
+
+<div class="btn btn-danger">
+
+    @ViewData["err"]
+
+</div>
+
+<div class="btn btn-warning">
+    @Html.ActionLink("Forgot Password?", "ResetPassword", "Registeration")
+</div>

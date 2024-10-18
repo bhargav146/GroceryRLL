@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - OnlineGroceryApp</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/OnlineGroceryApp.styles.css" asp-append-version="true" />
+    <style>
+        body {
+            background-image: url('/images/homeback.jpg');
+            background-size: cover;
+            background-position: center;
+            color: black;
+        }
+
+        img {
+            width: 100px;
+            height: 85px;
+            margin-left: 10px;
+            border-radius: 100px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+           
+            <div class="container-fluid">
+                <img src="~/images/ToZepy_Logo.jpeg" alt="Company Logo" />
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="mb-3">
+                    <a asp-controller="User" asp-action="Profile" class="btn btn-primary">Profile</a>
+                </div>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" asp-action="Home" asp-controller="User">Home</a>
+                        </li>
+
+                        <
+
+                       
+                         
+                    </ul>
+
+
+                    <form method="get" asp-controller="User" asp-action="Search">
+                        <div class="input-group mb-3">
+                            <input type="text" class="form-control" name="query" placeholder="Search" aria-label="Search">
+                            <select class="form-select" name="searchType">
+                                @*  <option value="ProductId">Product ID</option> *@
+                                <option value="ProductName">Product Name</option>
+                                @*   <option value="BrandName">Brand Name</option> *@
+                            </select>
+                            <button class="btn btn-outline-secondary" type="submit">Search</button>
+                        </div>
+                    </form>
+                    <div class="mb-3">
+                        <a asp-controller="User" asp-action="Logout" class="btn btn-danger">Logout</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+    </header>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            © 2024 - OnlineGroceryApp - <a asp-area="" asp-controller="User" asp-action="Contactus">Contact us</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

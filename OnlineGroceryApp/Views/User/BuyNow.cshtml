@@ -1,0 +1,32 @@
+﻿@model dynamic
+
+@{
+    Layout = "~/Views/Shared/userlayout.cshtml";
+}
+
+<h2>Buy Now</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h3>User Details</h3>
+        <p><strong>Name:</strong> @Model.User.Name</p>
+        <p><strong>Email:</strong> @Model.User.Email</p>
+
+        <h3>Product Details</h3>
+        <p><strong>Product Name:</strong> @Model.Product.ProductName</p>
+        <p><strong>Quantity:</strong> @Model.Order.OrderQty</p>
+        <p><strong>Price:</strong> Rs.@Model.Product.ProductPrice</p>
+        <p><strong>Total:</strong> Rs.@(Model.Product.ProductPrice * Model.Order.OrderQty)</p>
+
+        <h3>Bank Details</h3>
+        <p><strong>Account Number:</strong> @Model.BankAccount.AccountNumber</p>
+        <p><strong>Balance:</strong> Rs.@Model.BankAccount.Balance</p>
+
+        <form asp-action="BuyProduct" method="post">
+            <input type="hidden" name="productId" value="@Model.Product.ProductId" />
+            <input type="hidden" name="quantity" value="@Model.Order.OrderQty" />
+            <input type="hidden" name="accountId" value="@Model.BankAccount.AccountId" />
+            <button type="submit" class="btn btn-primary">Buy Now</button>
+        </form>
+    </div>
+</div>

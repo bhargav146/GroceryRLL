@@ -1,0 +1,180 @@
+﻿@model IEnumerable<OnlineGroceryApp.Models.Product>
+
+
+@{
+    Layout = "~/Views/Shared/homelayout.cshtml";
+}
+
+
+
+<h2>Top 10 Most Ordered Items</h2>
+<div class="mb-3">
+    <a asp-controller="User" asp-action="Profile" class="btn btn-primary">Profile</a>
+</div>
+<div class="col">
+    <div class="dropdown">
+        <a class="nav-link dropdown-toggle fw-bold text-primary" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Categories
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="categoriesDropdown">
+            @if (ViewBag.Categories != null)
+            {
+                @foreach (var category in ViewBag.Categories)
+                {
+                    <li><a class="dropdown-item" asp-controller="User" asp-action="CategoryProducts" asp-route-id="@category.CategoryId">@category.CategoryName</a></li>
+                }
+            }
+            else
+            {
+                <li><span class="dropdown-item">No categories available</span></li>
+            }
+        </ul>
+    </div>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th style="color:aliceblue">Product Image</th>
+            <th style="color:aliceblue">Product Name</th>
+            <th style="color:aliceblue">Price</th>
+            <th style="color:aliceblue">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+
+         @* <form method="get" action="BuyNow">
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="Home" asp-action="ProductDetails" asp-route-id="@product.ProductId">
+                        <img src="/@product.ProductImage" alt="@product.ProductName" width="100" />
+                    </a>
+                </td>
+                <td style="color:aliceblue">@product.ProductName</td>
+                <td style="color:aliceblue">@product.ProductPrice</td>
+                <td>
+                    <div class="input-group mb-3">
+                        <button class="btn btn-outline-secondary" type="button" id="button-minus">-</button>
+                        <input type="text" class="form-control" value="1" name="quantity" />
+                        <button class="btn btn-outline-secondary" type="button" id="button-plus">+</button>
+                        <input type="submit"  value="Buy now" />
+
+                    </div>
+                </td>
+            </tr>
+        }
+        </form>  *@
+
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="Home" asp-action="ProductDetails" asp-route-id="@product.ProductId">
+                        <img src="/@product.ProductImage" alt="@product.ProductName" width="100" />
+                    </a>
+                </td>
+                <td style="color:aliceblue">@product.ProductName</td>
+                <td style="color:aliceblue">@product.ProductPrice</td>
+                <td>
+                    <form method="post" asp-controller="User" asp-action="BuyNow">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" id="button-minus">-</button>
+                            <input type="text" class="form-control" value="1" name="quantity" />
+                            <button class="btn btn-outline-secondary" type="button" id="button-plus">+</button>
+                        </div>
+                        <input type="hidden" name="productId" value="@product.ProductId" />
+                        <button type="submit" class="btn btn-primary">Buy Now</button>
+                    </form>
+                    <form method="post" asp-controller="User" asp-action="AddToCart">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" id="button-minus">-</button>
+                            <input type="text" class="form-control" value="1" name="quantity" />
+                            <button class="btn btn-outline-secondary" type="button" id="button-plus">+</button>
+                        </div>
+                        <input type="hidden" name="productId" value="@product.ProductId" />
+                        <button type="submit" class="btn btn-success">Add to Cart</button>
+                    </form>
+
+                </td>
+            </tr>
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        @*  @foreach (var product in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="Home" asp-action="ProductDetails" asp-route-id="@product.ProductId">
+                        <img src="/@product.ProductImage" alt="@product.ProductName" width="100" />
+                    </a>
+                </td>
+                <td style="color:aliceblue">@product.ProductName</td>
+                <td style="color:aliceblue">@product.ProductPrice</td>
+                <td>
+                    <div class="input-group mb-3">
+                        <button class="btn btn-outline-secondary" type="button" id="button-minus">-</button>
+                        <input type="text" class="form-control" value="1" name="quantity"  />
+                        <button class="btn btn-outline-secondary" type="button" id="button-plus">+</button>
+                    </div>
+                    <form method="post" asp-controller="User" asp-action="BuyNow">
+                        <input type="hidden" name="productId" value="@product.ProductId" />
+                        <input type="hidden" name="quantity" id="buy-now-quantity-@product.ProductId" value="1" />
+                        <button type="submit" class="btn btn-primary">Buy Now</button>
+                    </form>
+                    <form method="post" asp-controller="User" asp-action="AddToCart">
+                        <input type="hidden" name="id" value="@product.ProductId" />
+                        <button type="submit" class="btn btn-success">Add to Cart</button>
+                    </form>
+                </td>
+            </tr> 
+        } *@
+    </tbody>
+</table>
+
+<script>
+    document.querySelectorAll('#button-minus').forEach(button => {
+        button.addEventListener('click', function () {
+            let input = this.nextElementSibling;
+            let value = parseInt(input.value, 10);
+            if (value > 1) {
+                input.value = value - 1;
+                document.getElementById('buy-now-quantity-' + input.id.split('-')).value = input.value;
+            }
+        });
+    });
+
+    document.querySelectorAll('#button-plus').forEach(button => {
+        button.addEventListener('click', function () {
+            let input = this.previousElementSibling;
+            let value = parseInt(input.value, 10);
+            input.value = value + 1;
+            document.getElementById('buy-now-quantity-' + input.id.split('-')).value = input.value;
+        });
+    });
+</script>

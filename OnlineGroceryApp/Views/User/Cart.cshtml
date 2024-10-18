@@ -1,0 +1,50 @@
+﻿@model IEnumerable<OnlineGroceryApp.Models.Cartitem>
+
+@{
+    Layout = "~/Views/Shared/userlayout.cshtml";
+}
+
+<h2>Your Cart</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Image</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="/@item.Product.ProductImage" alt="@item.Product.ProductName" width="100" />
+                </td>
+                <td>@item.Product.ProductName</td>
+                <td>@item.Quantity</td>
+                <td>@item.Product.ProductPrice</td>
+                <td>@(item.Quantity * item.Product.ProductPrice)</td>
+                <td>
+                    <form method="post" asp-controller="User" asp-action="RemoveFromCart" style="display:inline;">
+                        <input type="hidden" name="id" value="@item.CartId" />
+                        <button type="submit" class="btn btn-danger">Remove</button>
+                    </form>
+                    <form method="post" asp-controller="User" asp-action="BuyProduct" style="display:inline;">
+                        <input type="hidden" name="productId" value="@item.ProductId" />
+                        <input type="hidden" name="quantity" value="@item.Quantity" />
+                        <input type="hidden" name="accountId" value="@item.UserId" />
+                        <button type="submit" class="btn btn-primary">Buy Now</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form method="post" asp-controller="User" asp-action="BuyAllProducts">
+    <button type="submit" class="btn btn-success">Buy All Products</button>
+</form>

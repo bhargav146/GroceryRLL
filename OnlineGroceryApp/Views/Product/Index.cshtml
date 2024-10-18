@@ -1,0 +1,43 @@
+﻿@model IEnumerable<OnlineGroceryApp.Models.Product>
+@{
+    Layout = "~/Views/Shared/adminlayout.cshtml";
+}
+@{
+    ViewBag.Title = "Product List";
+}
+
+<h2>Product List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Stocks</th>
+            <th>Image</th>
+            <th>Category</th>
+            <th>Brand</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>@product.ProductPrice</td>
+                <td>@product.ProductStocks</td>
+                <td><img src="/@product.ProductImage" alt="@product.ProductName" width="100" /></td>
+                <td>@product.CategoryId</td> <!-- Update with actual category name if needed -->
+                <td>@product.BrandId</td>    <!-- Update with actual brand name if needed -->
+                <td>
+                    <a href="/Product/ViewProductDescription/@product.ProductId" class="btn btn-info">View</a>
+                    <a href="/Product/EditProduct/@product.ProductId" class="btn btn-warning">Edit</a>
+                    <a href="/Product/DeleteProduct/@product.ProductId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Product/InsertProduct" class="btn btn-primary">Add New Product</a>

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Order>
+@{
+    Layout = "~/Views/Shared/adminlayout.cshtml";
+}
+<h2>Reports</h2>
+
+<form method="get" asp-action="Reports" asp-controller="Admin">
+    <div class="form-group">
+        <label for="startDate">Start Date</label>
+        <input type="date" id="startDate" name="startDate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="endDate">End Date</label>
+        <input type="date" id="endDate" name="endDate" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>User</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Order Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderId</td>
+                <td>@order.User.Name</td> <!-- Adjust property names as per your model -->
+                <td>@order.Product.ProductName</td> <!-- Adjust property names as per your model -->
+                <td>@order.OrderQty</td>
+                <td>@order.OrderDate</td>
+            </tr>
+        }
+    </tbody>
+</table>

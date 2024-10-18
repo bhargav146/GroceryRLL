@@ -1,0 +1,35 @@
+﻿@model IEnumerable<OnlineGroceryApp.Models.User>
+@{
+    Layout = "~/Views/Shared/adminlayout.cshtml";
+}
+<h2>User List</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone No</th>
+            <th>Address</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var User in Model)
+        {
+            <tr>
+                <td>@User.UserId</td>
+                <td>@User.Name</td>
+                <td>@User.Email</td>
+                <td>@User.PhoneNo </td>
+                <td>@User.Address</td>
+                <td>
+
+                    <a asp-action="EditUser" asp-route-id="@User.UserId" class="btn btn-warning">Edit</a>
+                    <a asp-action="DeleteUser" asp-route-id="@User.UserId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

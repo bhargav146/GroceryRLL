@@ -1,0 +1,31 @@
+﻿@model OnlineGroceryApp.Models.User
+
+<form method="post">
+    <label>Username: </label><input type="text" asp-for="Name" class="form-control" minlength="4" required />
+    <span asp-validation-for="Name"/>
+    <label>Email: </label><input type="email" asp-for="Email" class="form-control" required />
+    <span asp-validation-for="Email"/>
+
+    <label>Password: </label><input type="password" asp-for="Password" class="form-control" required />
+
+    <label>Phone Number: </label><input type="text" asp-for="PhoneNo" class="form-control" minlength="10" maxlength="10" required />
+    <span asp-validation-for="PhoneNo" />
+    <label>Address: </label><input type="text" asp-for="Address" class="form-control" required />
+    <span asp-validation-for="Address" />
+
+    <input type="submit" value="Register" class="btn btn-primary" />
+
+</form>
+
+
+<div class="btn btn-info">
+
+    @ViewData["v"]
+
+</div>
+
+
+
+<div class="btn btn-info">
+    @Html.ActionLink("Login", "Login")
+</div>

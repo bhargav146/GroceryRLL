@@ -1,0 +1,59 @@
+﻿@model IEnumerable<OnlineGroceryApp.Models.Product>
+@{
+    Layout = "~/Views/Shared/adminlayout.cshtml";
+}
+@{
+    ViewData["Title"] = "Search Products";
+}
+
+<h2>Search Products</h2>
+
+<!-- Display any messages -->
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-warning">
+        @ViewBag.Message
+    </div>
+}
+
+<!-- Search Form -->
+<form method="get" asp-action="SearchProducts">
+    <div class="form-group">
+        <label for="searchTerm">Enter Product Name:</label>
+        <input type="text" class="form-control" name="productName" id="searchTerm" placeholder="Enter product name" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<hr />
+
+<!-- Display Search Results -->
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Brand</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.ProductName</td>
+                    <td><img src="/@product.ProductImage" alt="@product.ProductName" width="100" /></td>
+                    <td>@product.Category</td>
+                    <td>@product.Brand</td>
+                    <td>@product.ProductPrice.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (Model != null)
+{
+    <p>No products found matching your search.</p>
+}

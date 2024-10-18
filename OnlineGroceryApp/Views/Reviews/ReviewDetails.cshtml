@@ -1,0 +1,44 @@
+﻿@model OnlineGroceryApp.Models.Review
+@{
+    Layout = "~/Views/Shared/adminlayout.cshtml";
+}
+@{
+    ViewData["Title"] = "Review Details";
+}
+
+<h1>Review Details</h1>
+
+<div>
+    <h4>Review</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OrderId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Rating)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Rating)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ReviewText)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ReviewText)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ReviewId" class="btn btn-primary">Edit</a> |
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

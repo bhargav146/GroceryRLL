@@ -1,0 +1,15 @@
+﻿@model OnlineGroceryApp.Models.Order
+
+<h2>Order Confirmation</h2>
+
+<p>Thank you for your purchase!</p>
+<p><strong>Order ID:</strong> @Model.OrderId</p>
+<p><strong>Product Name:</strong> @Model.Product.ProductName</p>
+<p><strong>Quantity:</strong> @Model.OrderQty</p>
+<p><strong>Total Price:</strong> Rs. @(Model.Product.ProductPrice * Model.OrderQty)</p>
+<p><strong>Order Date:</strong> @Model.OrderDate</p>
+
+<form method="post" asp-controller="User" asp-action="CancelOrder">
+    <input type="hidden" name="orderId" value="@Model.OrderId" />
+    <button type="submit" class="btn btn-danger">Cancel Order</button>
+</form>

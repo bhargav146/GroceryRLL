@@ -1,0 +1,717 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineGroceryApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineGroceryApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cold Beverages\\Amul buttermilk.jpg",
+      "PackagePath": "staticwebassets\\images\\Cold Beverages\\Amul buttermilk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cold Beverages\\Amul ice_cream.jpg",
+      "PackagePath": "staticwebassets\\images\\Cold Beverages\\Amul ice_cream.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cold Beverages\\Kitkat Milkshakes.jpg",
+      "PackagePath": "staticwebassets\\images\\Cold Beverages\\Kitkat Milkshakes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cold Beverages\\Limca Cooldrinks.jpg",
+      "PackagePath": "staticwebassets\\images\\Cold Beverages\\Limca Cooldrinks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cold Beverages\\Sprite Cookdrinks.jpg",
+      "PackagePath": "staticwebassets\\images\\Cold Beverages\\Sprite Cookdrinks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cold Beverages\\Sweet Lassi.jpg",
+      "PackagePath": "staticwebassets\\images\\Cold Beverages\\Sweet Lassi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cold Beverages\\Thumbs up.jpg",
+      "PackagePath": "staticwebassets\\images\\Cold Beverages\\Thumbs up.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\Candies.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\Candies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\Choco pie cookies.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\Choco pie cookies.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\Chocolate cake.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\Chocolate cake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\Gums.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\Gums.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\Max chips.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\Max chips.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\Munchies chips.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\Munchies chips.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\chocolate.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\chocolate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\color gums.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\color gums.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\lays.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\lays.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Cravings\\oreo Biscuits.jpg",
+      "PackagePath": "staticwebassets\\images\\Cravings\\oreo Biscuits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\Dabur toothpaste.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\Dabur toothpaste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\Dettol sanitizers.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\Dettol sanitizers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\Essentials egg.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\Essentials egg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\fortune_oil.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\fortune_oil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\gentle_brush.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\gentle_brush.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\india_sea_salt.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\india_sea_salt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\milky_curd.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\milky_curd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\modern_bread.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\modern_bread.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\raw_milk.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\raw_milk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\savlon_soap.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\savlon_soap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Daily needs\\tresemme_shampoo.jpg",
+      "PackagePath": "staticwebassets\\images\\Daily needs\\tresemme_shampoo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Apples.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Apples.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Banana.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Banana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Banna.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Banna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Brinjal.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Brinjal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Cabbage.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Cabbage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Carrot.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Carrot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Dragon Fruits.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Dragon Fruits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Mango.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Mango.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Pineapple.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Pineapple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Potato.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Potato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Tomato.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Tomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Vegetables\\Brinjal.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Vegetables\\Brinjal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Vegetables\\Cabbage.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Vegetables\\Cabbage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Vegetables\\Carrot.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Vegetables\\Carrot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Vegetables\\Potato.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Vegetables\\Potato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Fruits & Vegetables\\Vegetables\\Tomato.jpg",
+      "PackagePath": "staticwebassets\\images\\Fruits & Vegetables\\Vegetables\\Tomato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\aashirvaad _sambhar_masala.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\aashirvaad _sambhar_masala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\aashirvaad_sambhar_masala.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\aashirvaad_sambhar_masala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\achi _chili_powder.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\achi _chili_powder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\achi_chili_powder.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\achi_chili_powder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\dhuti _chicken_masala.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\dhuti _chicken_masala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\dhuti_chicken_masala.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\dhuti_chicken_masala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\eastern_coriander_powder.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\eastern_coriander_powder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\licious_meat_masala.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\licious_meat_masala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\mtr _jeera_powder.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\mtr _jeera_powder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\mtr_jeera_powder.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\mtr_jeera_powder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\priya_ginger_garlic_paste.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\priya_ginger_garlic_paste.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\pushp_chat_masala.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\pushp_chat_masala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\surya_garam_masala.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\surya_garam_masala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Masalas\\tata_turmeric_powder.jpg",
+      "PackagePath": "staticwebassets\\images\\Masalas\\tata_turmeric_powder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Meats\\chicken.jpg",
+      "PackagePath": "staticwebassets\\images\\Meats\\chicken.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Meats\\crab.jpg",
+      "PackagePath": "staticwebassets\\images\\Meats\\crab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Meats\\fish.jpg",
+      "PackagePath": "staticwebassets\\images\\Meats\\fish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Meats\\mutton.jpg",
+      "PackagePath": "staticwebassets\\images\\Meats\\mutton.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Meats\\prawn.jpg",
+      "PackagePath": "staticwebassets\\images\\Meats\\prawn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Meats\\sausages.jpg",
+      "PackagePath": "staticwebassets\\images\\Meats\\sausages.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\cetaphil_facewash.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\cetaphil_facewash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\dazller_nail_polish.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\dazller_nail_polish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\derma_sun_screen.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\derma_sun_screen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\garnier_moisturizer.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\garnier_moisturizer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\lakme_kajal.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\lakme_kajal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\loreal_hair_spray.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\loreal_hair_spray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\mac_lipstick.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\mac_lipstick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\minimalist_serum.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\minimalist_serum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\nivea_body _wash.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\nivea_body _wash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\nivea_body_wash.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\nivea_body_wash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Skin care & Beauty\\plum_skin_toners.jpg",
+      "PackagePath": "staticwebassets\\images\\Skin care & Beauty\\plum_skin_toners.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\cellotapes.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\cellotapes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\erasers.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\erasers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\exam_pads.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\exam_pads.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\fevi_gums.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\fevi_gums.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\flair_pen.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\flair_pen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\notebook.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\notebook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\pencils.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\pencils.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\scales.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\scales.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\scissors.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\scissors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Stationery\\staplers.jpg",
+      "PackagePath": "staticwebassets\\images\\Stationery\\staplers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Tea & Coffee\\enfagrou_milk_powder.jpg",
+      "PackagePath": "staticwebassets\\images\\Tea & Coffee\\enfagrou_milk_powder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Tea & Coffee\\lactogen_baby_powder.jpg",
+      "PackagePath": "staticwebassets\\images\\Tea & Coffee\\lactogen_baby_powder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Tea & Coffee\\mili_tea.jpg",
+      "PackagePath": "staticwebassets\\images\\Tea & Coffee\\mili_tea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Tea & Coffee\\nescafe_coffee.jpg",
+      "PackagePath": "staticwebassets\\images\\Tea & Coffee\\nescafe_coffee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Tea & Coffee\\ready_to_drink.jpg",
+      "PackagePath": "staticwebassets\\images\\Tea & Coffee\\ready_to_drink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\ToZepyImage.jpg",
+      "PackagePath": "staticwebassets\\images\\ToZepyImage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\ToZepy_Logo.jpeg",
+      "PackagePath": "staticwebassets\\images\\ToZepy_Logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\Sports\\badminton _rackets.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\Sports\\badminton _rackets.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\Sports\\balls.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\Sports\\balls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\Sports\\carrom_board.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\Sports\\carrom_board.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\Sports\\cricket_bats.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\Sports\\cricket_bats.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\Sports\\shuttles.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\Sports\\shuttles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\badminton_rackets.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\badminton_rackets.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\balls.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\balls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\carrom_board.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\carrom_board.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\cricket_bats.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\cricket_bats.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\monopoly.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\monopoly.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\remote_control_cars.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\remote_control_cars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\shuttles.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\shuttles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\teddy_bear.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\teddy_bear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\toy_cycle.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\toy_cycle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\Toys\\uno_cards.jpg",
+      "PackagePath": "staticwebassets\\images\\Toys\\uno_cards.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\adminbackground.jpg",
+      "PackagePath": "staticwebassets\\images\\adminbackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\bannerr.jpg",
+      "PackagePath": "staticwebassets\\images\\bannerr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\groceryback.jpg",
+      "PackagePath": "staticwebassets\\images\\groceryback.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\homeback.jpg",
+      "PackagePath": "staticwebassets\\images\\homeback.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\images\\onlngroceryback.jpg",
+      "PackagePath": "staticwebassets\\images\\onlngroceryback.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saswat.nayak\\source\\repos\\OnlineGroceryApp\\OnlineGroceryApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineGroceryApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineGroceryApp.props",
+      "PackagePath": "build\\OnlineGroceryApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineGroceryApp.props",
+      "PackagePath": "buildMultiTargeting\\OnlineGroceryApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineGroceryApp.props",
+      "PackagePath": "buildTransitive\\OnlineGroceryApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,6 @@
+@OnlineGroceryAppWebAPI_HostAddress = http://localhost:5286
+
+GET {{OnlineGroceryAppWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,18 @@
+﻿@model OnlineGroceryApp.Models.Review
+
+
+<form method="post">
+
+    <input type="text" asp-for="UserId" />
+
+    <input type="text" asp-for="OrderId" />
+
+    <input type="text" asp-for="ReviewText" />
+
+    <input type="text" asp-for="Rating" />
+
+    <input type="submit" />
+
+</form>
+
+@ViewData["msg"]

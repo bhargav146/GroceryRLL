@@ -1,0 +1,82 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "onlinegroceryDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "OnlineGroceryApp",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Admins]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[brands]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[cartitems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FNBCbank]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[payments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[reviews]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
